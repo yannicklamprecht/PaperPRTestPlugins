@@ -1,0 +1,4 @@
+name: TestPlugins
+version: ${project.version}
+main: com.github.yannicklamprecht.paper.pr.test.testplugins.TestPlugins
+api-version: 1.15
